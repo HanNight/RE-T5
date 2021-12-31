@@ -1,12 +1,12 @@
 # RE-T5
-Repo for paper ["Beyond Preserved Accuracy: Evaluating Loyalty and Robustness of BERT Compression"](https://aclanthology.org/2021.findings-acl.269/)(ACL-IJCNLP 2021).
+Repo for paper ["Retrieval Enhanced Model for Commonsense Generation"](https://aclanthology.org/2021.findings-acl.269/)(ACL-IJCNLP 2021).
 
 <center><img src="https://user-images.githubusercontent.com/36069169/147724625-90e1a993-b291-416b-956a-55bbabed3f69.png" width="300px"></center>
 
 ## Prepare Data
 
 ### CommonGen Dataset
-You can get CommonGen dataset from [their official website](https://inklab.usc.edu/CommonGen/) or [Huggingface Datasets Hub](https://huggingface.co/datasets/viewer/?dataset=common_gen)
+You can get CommonGen dataset from [their official website](https://inklab.usc.edu/CommonGen/) or [Huggingface Datasets Hub](https://huggingface.co/datasets/viewer/?dataset=common_gen).
 
 ### External Corpora
 We provide our `external corpora` consisting of [VATEX](https://arxiv.org/abs/1904.03493), [Activity](https://arxiv.org/abs/1705.00754), [SNLI](https://aclanthology.org/D15-1075/), and [MNLI](https://aclanthology.org/N18-1101/) in `data` folder.
