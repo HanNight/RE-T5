@@ -1,0 +1,1 @@
+You can get CommonGen dataset from [their official website](https://inklab.usc.edu/CommonGen/) or [Huggingface Datasets Hub](https://huggingface.co/datasets/viewer/?dataset=common_gen)
